@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
- A[Hình chữ nhật]
+ A[Vuong]
  B(Hình bo góc)
  C([Hình stadium])
  D[[Hình đặc biệt]]
